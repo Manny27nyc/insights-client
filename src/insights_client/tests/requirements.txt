@@ -1,5 +1,5 @@
 pytest~=4.6.11
 mock~=3.0.5
-requests~=2.25.1
+requests~=2.32.4
 six~=1.15.0
-pyyaml~=3.13
+pyyaml~=6.0
