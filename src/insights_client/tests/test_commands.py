@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 # -*- coding: utf-8 -*-
 
 import insights_client
